@@ -14,28 +14,40 @@ body {
 }
 
 p  {
-    background-color: white
+    background-color: white;
 }
 
-
+h1  {
+    color:white;
+}
 #area1  {
    background-color: rgb(0, 51, 102); 
     color:azure;
+    padding: 20px;
  }
 #headshot {
     float: left;
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%
+    
 }
 
 #area2  {
-   background-color: rgb(204, 255, 255); 
+   background-color: rgb(204, 25, 255); 
+   padding: 20px;
  }
 
 #area3  {
-   background-color: rgb(102, 153, 255); 
+   background-color: rgb(102, 153, 255);
+   padding: 30px; 
+   margin: 30px;
  }
 #area4  {
    background-color: #ff9966; 
-    margin: 5px;
+    margin: 10px;
+    padding: 20px;
  }
 #area5  {
    background-color: #00cc99; 
