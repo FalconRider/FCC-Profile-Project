@@ -4,23 +4,39 @@
 * { 
   border: 1px solid rgba(0, 0, 0, 0.3);
 }
-/*  temporary  block borders   just in for the constructions phase  */
-
-p  {
-    background-color: blue;
-}
+/* pgpgpgpgpgpgpg ABOVE temporary block borders -just in for the construction  */
 
 
 
 body {
-    background-color: orange;
+    background-color: coral;
     
+}
+
+p  {
+    background-color: brown;
 }
 
 
 #area1  {
-   background-color: orange; 
-    
-}
+   background-color: fuchsia; 
+ }
+
+#area2  {
+   background-color: blue; 
+ }
+
+#area3  {
+   background-color: green; 
+ }
+#area4  {
+   background-color: crimson; 
+ }
+#area5  {
+   background-color: wheat; 
+ }
+
+/*    pgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgp  Basic colors set up */
+
 .classes
 #ids
