@@ -1,9 +1,10 @@
 
 
-* {
-    border: 2px single black;
-}
 
+* { 
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+/*  temporary  block borders   just in for the constructions phase  */
 
 p  {
     background-color: blue;
