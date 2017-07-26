@@ -45,18 +45,22 @@ h1  {
    margin: 30px;
  }
 #area4  {
-   background-color: #ff9966; 
-    margin: 10px;
+   background-color: maroon; 
+   color: white;
     padding: 20px;
  }
 #area5  {
-   background-color: #00cc99; 
+   background-color: navy;
+    color:white;
+    padding:50px;
  }
 
 /*    pgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgp  Basic colors set up */
 .pimage {
                 width: 400px;
                 height: 400px;
+                padding: 4px;
+                margin:20px;
 }
 
 
